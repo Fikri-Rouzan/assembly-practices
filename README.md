@@ -1,8 +1,8 @@
-# Assembly Practices
+# Assembly Exercises
 
 ## About
 
-Assembly practices for the final exam of the Computer Organization and Architecture course.
+Assembly exercises for the final exam of the Computer Organization and Architecture course.
 
 ## Technologies Used
 
